@@ -1,1 +1,2 @@
 # TryHackMe-labs
+This repository is a curated collection of TryHackMe lab exercises completed as part of my practical cybersecurity learning. It focuses on beginner to intermediate blue-team and network simulations — for example SIEM alert triage, IP reputation enrichment, incident escalation, and MAC spoofing experiments in a lab environment. All content is redacted and sanitised for public posting. Each lab folder includes a short README, example (sanitised) commands, and redacted screenshots to demonstrate methodology and learning outcomes.
